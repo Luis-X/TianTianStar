@@ -1,0 +1,2 @@
+/Users/apple/Library/Developer/Xcode/DerivedData/TianTianStar-edfclnffdfjzioaypjyfwqzlorxz/Build/Products/Debug-iphonesimulator/TianTianStar.app
+

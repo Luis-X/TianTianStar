@@ -1,0 +1,27 @@
+use_frameworks!
+pod 'AVOSCloud'               # 数据存储、短信、云引擎调用等基础服务模块
+pod 'AVOSCloudIM'             # 实时通信模块
+pod 'AVOSCloudCrashReporting' # 错误报告模块
+pod 'iCarousel'		      # 3D卡片效果
+pod 'Charts'		      # 图表相关
+pod 'DateTools'		      # 日期相关
+pod 'FMDB'		      # 数据库
+pod 'Masonry'		      # 约束布局
+pod 'pop'		      # Facebook动画
+pod 'KVOController'	      # Facebook KVO增强框架
+pod 'AsyncDisplayKit'	      # Facebook 增强界面流畅性
+pod 'Shimmer'		      # Facebook 添加闪烁效果
+pod 'Tweaks'		      # Facebook 动态调整参数
+pod 'UITableView+FDTemplateLayoutCell'		#自适应表内容高度
+pod 'ChameleonFramework'      # 变色龙轻量级扁平化颜色库
+pod 'GBFlatButton'	      # 圆角按钮
+pod 'FlatUIKit'		      # 扁平UI库
+pod 'RongCloudIMKit'	      # 融云
+pod 'STPopup'		      # 弹出视图
+pod 'FSCalendar'	      # 日历
+pod 'FDFullscreenPopGesture'  # 滑动返回
+pod 'MBProgressHUD'	      # 提示框
+pod 'XLForm'		      # 快速搭建表单
+pod 'REMenu'		      # 下拉菜单
+pod 'WYPopoverController'     # 弹出自定义气泡视图
+

@@ -1,0 +1,43 @@
+//
+//  TianTianStarPrefixHeader.pch
+//  TianTianStar
+//
+//  Created by LuisX on 16/5/26.
+//  Copyright © 2016年 LuisX. All rights reserved.
+//
+
+#ifndef TianTianStarPrefixHeader_pch
+#define TianTianStarPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+/**
+ *  LeanCloud
+ */
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import <AVOSCloud/AVOSCloud.h>                                         //基础模块
+#import <AVOSCloudIM/AVOSCloudIM.h>                                     //实时通信
+#import <AVOSCloudCrashReporting/AVOSCloudCrashReporting.h>             //崩溃报告
+#import "LearnCloud.h"                                                  //自定义learnCloud宏
+#import "DateTools.h"                                                   //日期相关
+#import "iCarousel.h"                                                   //3D卡片动画
+#import <pop/POP.h>                                                     //FaceBook  动画
+#import <KVOController/KVOController.h>                                 //FaceBook  KVO增强框架
+#import <AsyncDisplayKit/AsyncDisplayKit.h>                             //FaceBook  增强界面流畅性
+#import "UITableView+FDTemplateLayoutCell.h"                            //自适应内容高度
+#import "Masonry.h"
+#import "Constant.h"
+#import "FlatUIKit/FlatUIKit.h"                                         //扁平UI库
+#import <RongIMKit/RongIMKit.h>                                         //融云IM
+#import "SIAlertView.h"                                                 //弹框
+#import "STPopup.h"                                                     //弹出视图
+#import "FSCalendar.h"                                                  //日历(签到)
+#import "XLFormViewController.h"                                        //快速建表
+#import "REMenu.h"                                                      //下拉菜单
+#import "WYPopoverController.h"                                         //弹出自定义气泡视图
+#import "MBProgressHUD.h"
+#import "ConfigManager.h"                                               //所有设置
+
+#endif /* TianTianStarPrefixHeader_pch */

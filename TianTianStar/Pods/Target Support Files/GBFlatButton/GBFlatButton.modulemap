@@ -1,0 +1,6 @@
+framework module GBFlatButton {
+  umbrella header "GBFlatButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
